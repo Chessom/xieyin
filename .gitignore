@@ -1,0 +1,5 @@
+build/
+dist/
+remo.cmd
+renew.cmd
+xieyin/__pycache__/
